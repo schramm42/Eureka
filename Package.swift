@@ -11,7 +11,8 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "Eureka"
+            name: "Eureka",
+            path: "Source"
         )
     ]
 )
